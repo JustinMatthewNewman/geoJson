@@ -75,7 +75,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5
           },
           "bbox":[
              60.52843,
@@ -441,7 +441,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":54
           },
           "bbox":[
              11.640096,
@@ -837,7 +837,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":116
           },
           "bbox":[
              19.304486,
@@ -1023,7 +1023,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":413
           },
           "bbox":[
              51.579519,
@@ -1201,7 +1201,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1416
           },
           "bbox":[
              -73.415436,
@@ -1781,7 +1781,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":150
           },
           "bbox":[
              43.582746,
@@ -1951,7 +1951,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              -180,
@@ -4715,7 +4715,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5883
           },
           "bbox":[
              68.72,
@@ -4841,7 +4841,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":5.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5291
           },
           "bbox":[
              113.338953,
@@ -5901,7 +5901,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2566
           },
           "bbox":[
              9.47997,
@@ -6139,7 +6139,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":59
           },
           "bbox":[
              44.79399,
@@ -6411,7 +6411,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1
           },
           "bbox":[
              29.024926,
@@ -6553,7 +6553,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1289
           },
           "bbox":[
              2.513573,
@@ -6711,7 +6711,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2
           },
           "bbox":[
              0.772336,
@@ -6901,7 +6901,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":4
           },
           "bbox":[
              -5.470565,
@@ -7147,7 +7147,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":49
           },
           "bbox":[
              88.084422,
@@ -7381,7 +7381,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":825
           },
           "bbox":[
              22.380526,
@@ -7583,7 +7583,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":12
           },
           "bbox":[
              -78.98,
@@ -7767,7 +7767,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":151
           },
           "bbox":[
              15.750026,
@@ -7949,7 +7949,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1981
           },
           "bbox":[
              23.199494,
@@ -8219,7 +8219,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":11
           },
           "bbox":[
              -89.229122,
@@ -8389,7 +8389,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":71
           },
           "bbox":[
              -69.590424,
@@ -8719,7 +8719,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":5.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5185
           },
           "bbox":[
              -73.987235,
@@ -9621,7 +9621,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":12
           },
           "bbox":[
              114.204017,
@@ -9743,7 +9743,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              88.814248,
@@ -9885,7 +9885,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2
           },
           "bbox":[
              19.895458,
@@ -10135,7 +10135,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              14.459407,
@@ -10473,7 +10473,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":5.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":7527
           },
           "bbox":[
              -140.99778,
@@ -13857,7 +13857,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2551
           },
           "bbox":[
              6.022609,
@@ -14043,7 +14043,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":550
           },
           "bbox":[
              -75.644395,
@@ -14595,7 +14595,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":5.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":60077
           },
           "bbox":[
              73.675379,
@@ -15651,7 +15651,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              -8.60288,
@@ -15925,7 +15925,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":54
           },
           "bbox":[
              8.488816,
@@ -16259,7 +16259,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              12.182337,
@@ -16845,7 +16845,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              11.093773,
@@ -17131,7 +17131,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":709
           },
           "bbox":[
              -78.990935,
@@ -17621,7 +17621,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":167
           },
           "bbox":[
              -85.941725,
@@ -17855,7 +17855,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":4
           },
           "bbox":[
              -84.974911,
@@ -18113,7 +18113,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":6,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":98
           },
           "bbox":[
              32.73178,
@@ -18267,7 +18267,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              32.256667,
@@ -18417,7 +18417,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1313
           },
           "bbox":[
              12.240111,
@@ -18647,7 +18647,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":28615
           },
           "bbox":[
              5.988658,
@@ -18969,7 +18969,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              41.66176,
@@ -19119,7 +19119,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":752
           },
           "bbox":[
              8.089977,
@@ -19311,7 +19311,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":131
           },
           "bbox":[
              -71.945112,
@@ -19505,7 +19505,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":190
           },
           "bbox":[
              -8.6844,
@@ -19843,7 +19843,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":158
           },
           "bbox":[
              -80.967765,
@@ -20065,7 +20065,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":579
           },
           "bbox":[
              24.70007,
@@ -20331,7 +20331,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              36.32322,
@@ -20533,7 +20533,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3624
           },
           "bbox":[
              -9.392884,
@@ -20827,7 +20827,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":311
           },
           "bbox":[
              23.339795,
@@ -20993,7 +20993,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":9
           },
           "bbox":[
              32.95418,
@@ -21319,7 +21319,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1443
           },
           "bbox":[
              20.645593,
@@ -21569,7 +21569,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":14
           },
           "bbox":[
              -180,
@@ -21757,7 +21757,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              -61.2,
@@ -21887,7 +21887,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5883
           },
           "bbox":[
              -54.524754,
@@ -22283,7 +22283,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":6
           },
           "bbox":[
              8.797996,
@@ -22497,7 +22497,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":11186
           },
           "bbox":[
              -7.572168,
@@ -22817,7 +22817,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":198
           },
           "bbox":[
              39.955009,
@@ -23003,7 +23003,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":137
           },
           "bbox":[
              -3.24437,
@@ -23193,7 +23193,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              -15.130311,
@@ -23563,7 +23563,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":28
           },
           "bbox":[
              -16.841525,
@@ -23717,7 +23717,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1
           },
           "bbox":[
              -16.677452,
@@ -23883,7 +23883,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              9.305613,
@@ -24001,7 +24001,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1191
           },
           "bbox":[
              20.150016,
@@ -24313,7 +24313,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              -73.297,
@@ -24931,7 +24931,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":43
           },
           "bbox":[
              -92.229249,
@@ -25161,7 +25161,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":6
           },
           "bbox":[
              -61.410303,
@@ -25411,7 +25411,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":22
           },
           "bbox":[
              -89.353326,
@@ -25729,7 +25729,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":848
           },
           "bbox":[
              13.656976,
@@ -25991,7 +25991,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":4
           },
           "bbox":[
              -74.458034,
@@ -26165,7 +26165,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":865
           },
           "bbox":[
              16.202298,
@@ -26383,7 +26383,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":935
           },
           "bbox":[
              95.293026,
@@ -27523,7 +27523,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2293
           },
           "bbox":[
              68.176645,
@@ -28157,7 +28157,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":950
           },
           "bbox":[
              -9.977086,
@@ -28299,7 +28299,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2.5,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1031
           },
           "bbox":[
              44.109225,
@@ -28693,7 +28693,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":41
           },
           "bbox":[
              38.792341,
@@ -28903,7 +28903,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":126
           },
           "bbox":[
              -24.326184,
@@ -29073,7 +29073,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1173
           },
           "bbox":[
              34.265433,
@@ -29267,7 +29267,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5429
           },
           "bbox":[
              6.749955,
@@ -29715,7 +29715,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":27
           },
           "bbox":[
              -78.337719,
@@ -29849,7 +29849,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":123
           },
           "bbox":[
              34.922603,
@@ -30015,7 +30015,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":6897
           },
           "bbox":[
              129.408463,
@@ -30375,7 +30375,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1836
           },
           "bbox":[
              46.466446,
@@ -30913,7 +30913,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":166
           },
           "bbox":[
              33.893569,
@@ -31151,7 +31151,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":71
           },
           "bbox":[
              69.464887,
@@ -31381,7 +31381,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":68
           },
           "bbox":[
              102.348099,
@@ -31539,7 +31539,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3641
           },
           "bbox":[
              126.117398,
@@ -31705,7 +31705,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              20.0707,
@@ -31879,7 +31879,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":97
           },
           "bbox":[
              46.568713,
@@ -32005,7 +32005,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":21
           },
           "bbox":[
              100.115988,
@@ -32243,7 +32243,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":134
           },
           "bbox":[
              35.126053,
@@ -32377,7 +32377,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              -11.438779,
@@ -32575,7 +32575,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":12
           },
           "bbox":[
              9.319411,
@@ -32889,7 +32889,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":219
           },
           "bbox":[
              79.695167,
@@ -33019,7 +33019,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              26.999262,
@@ -33157,7 +33157,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":456
           },
           "bbox":[
              21.0558,
@@ -33323,7 +33323,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5.7,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":449
           },
           "bbox":[
              5.674052,
@@ -33441,7 +33441,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":374
           },
           "bbox":[
              21.0558,
@@ -33619,7 +33619,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":606
           },
           "bbox":[
              -17.020428,
@@ -33961,7 +33961,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":215
           },
           "bbox":[
              26.619337,
@@ -34159,7 +34159,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":13
           },
           "bbox":[
              43.254187,
@@ -34445,7 +34445,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1364
           },
           "bbox":[
              -117.12776,
@@ -35215,7 +35215,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":172
           },
           "bbox":[
              20.463175,
@@ -35377,7 +35377,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":4
           },
           "bbox":[
              -12.17075,
@@ -35771,7 +35771,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":10
           },
           "bbox":[
              92.303234,
@@ -36141,7 +36141,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":45
           },
           "bbox":[
              18.450017,
@@ -36303,7 +36303,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":132
           },
           "bbox":[
              87.751264,
@@ -36693,7 +36693,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":20
           },
           "bbox":[
              30.179481,
@@ -37099,7 +37099,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":111
           },
           "bbox":[
              -17.063423,
@@ -37345,7 +37345,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":9
           },
           "bbox":[
              32.688165,
@@ -37547,7 +37547,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1127
           },
           "bbox":[
              100.085757,
@@ -37891,7 +37891,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":15
           },
           "bbox":[
              11.734199,
@@ -38157,7 +38157,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.6,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":6
           },
           "bbox":[
              164.029606,
@@ -38299,7 +38299,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1
           },
           "bbox":[
              0.295646,
@@ -38621,7 +38621,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":112
           },
           "bbox":[
              2.691702,
@@ -38943,7 +38943,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":6
           },
           "bbox":[
              -87.668493,
@@ -39241,7 +39241,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5490
           },
           "bbox":[
              3.314971,
@@ -39391,7 +39391,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1212
           },
           "bbox":[
              4.992078,
@@ -39847,7 +39847,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":46
           },
           "bbox":[
              80.088425,
@@ -40029,7 +40029,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":806
           },
           "bbox":[
              166.509144,
@@ -40389,7 +40389,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":20
           },
           "bbox":[
              52.00001,
@@ -40673,7 +40673,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":203
           },
           "bbox":[
              60.874248,
@@ -41325,7 +41325,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":165
           },
           "bbox":[
              -81.410943,
@@ -41719,7 +41719,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":773
           },
           "bbox":[
              117.174275,
@@ -42275,7 +42275,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2.5,
              "MAX_LABEL":7.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":14
           },
           "bbox":[
              141.00021,
@@ -42703,7 +42703,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2923
           },
           "bbox":[
              14.074521,
@@ -42973,7 +42973,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":127
           },
           "bbox":[
              -67.242428,
@@ -43099,7 +43099,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              124.265625,
@@ -43387,7 +43387,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":572
           },
           "bbox":[
              -9.526571,
@@ -43609,7 +43609,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":53
           },
           "bbox":[
              -62.685057,
@@ -43831,7 +43831,7 @@
              "MIN_ZOOM":7,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":28
           },
           "bbox":[
              34.927408,
@@ -43957,7 +43957,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":79
           },
           "bbox":[
              50.743911,
@@ -44083,7 +44083,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1326
           },
           "bbox":[
              20.220192,
@@ -44349,7 +44349,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":5.2,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":31295
           },
           "bbox":[
              -180,
@@ -46993,7 +46993,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1
           },
           "bbox":[
              29.024926,
@@ -47139,7 +47139,7 @@
              "MIN_ZOOM":4.7,
              "MIN_LABEL":6,
              "MAX_LABEL":11,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              -17.063423,
@@ -47341,7 +47341,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2.7,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":472
           },
           "bbox":[
              34.632336,
@@ -47735,7 +47735,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":18
           },
           "bbox":[
              21.93681,
@@ -48149,7 +48149,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              23.88698,
@@ -48491,7 +48491,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":17
           },
           "bbox":[
              -17.625043,
@@ -48757,7 +48757,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              156.491358,
@@ -49013,7 +49013,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":67
           },
           "bbox":[
              -13.24655,
@@ -49191,7 +49191,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":12
           },
           "bbox":[
              -90.095555,
@@ -49361,7 +49361,7 @@
              "MIN_ZOOM":4,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              42.55876,
@@ -49555,7 +49555,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              40.98105,
@@ -49793,7 +49793,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":468
           },
           "bbox":[
              18.829825,
@@ -50075,7 +50075,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":12
           },
           "bbox":[
              -58.044694,
@@ -50269,7 +50269,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":510
           },
           "bbox":[
              16.879983,
@@ -50491,7 +50491,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":330
           },
           "bbox":[
              13.69811,
@@ -50653,7 +50653,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2645
           },
           "bbox":[
              11.027369,
@@ -50903,7 +50903,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              30.676609,
@@ -51037,7 +51037,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":21
           },
           "bbox":[
              35.700798,
@@ -51235,7 +51235,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1
           },
           "bbox":[
              13.540394,
@@ -51557,7 +51557,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":5,
              "MAX_LABEL":10,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":4
           },
           "bbox":[
              -0.049785,
@@ -51723,7 +51723,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":4004
           },
           "bbox":[
              97.375896,
@@ -52069,7 +52069,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":3
           },
           "bbox":[
              67.44222,
@@ -52323,7 +52323,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5
           },
           "bbox":[
              52.50246,
@@ -52629,7 +52629,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2
           },
           "bbox":[
              124.968682,
@@ -52763,7 +52763,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4.5,
              "MAX_LABEL":9.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":31
           },
           "bbox":[
              -61.95,
@@ -52885,7 +52885,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":147
           },
           "bbox":[
              7.524482,
@@ -53099,7 +53099,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1509
           },
           "bbox":[
              26.043351,
@@ -53467,7 +53467,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":2192
           },
           "bbox":[
              120.106189,
@@ -53593,7 +53593,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":25
           },
           "bbox":[
              29.339998,
@@ -53891,7 +53891,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":25
           },
           "bbox":[
              29.579466,
@@ -54093,7 +54093,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":5808
           },
           "bbox":[
              22.085608,
@@ -54555,7 +54555,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":513
           },
           "bbox":[
              -58.427074,
@@ -54729,7 +54729,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":5.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":66488
           },
           "bbox":[
              -171.791111,
@@ -56645,7 +56645,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":76
           },
           "bbox":[
              55.928917,
@@ -56951,7 +56951,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":7.5,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":864
           },
           "bbox":[
              -73.304952,
@@ -57409,7 +57409,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":2,
              "MAX_LABEL":7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":968
           },
           "bbox":[
              102.170436,
@@ -57675,7 +57675,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":4,
              "MAX_LABEL":9,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":0
           },
           "bbox":[
              166.629137,
@@ -57819,7 +57819,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":7
           },
           "bbox":[
              42.604873,
@@ -58085,7 +58085,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":1.7,
              "MAX_LABEL":6.7,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":1845
           },
           "bbox":[
              16.344977,
@@ -58553,7 +58553,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":24
           },
           "bbox":[
              21.887843,
@@ -58887,7 +58887,7 @@
              "MIN_ZOOM":0,
              "MIN_LABEL":3,
              "MAX_LABEL":8,
-             "BTC_DEGREE":100
+             "BTC_DEGREE":11
           },
           "bbox":[
              25.264226,
